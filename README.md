@@ -2,7 +2,7 @@
 
 ## Overview
 
-In this assignment, I demonstrated the process of pushing changes to multiple Git repositories. The task involved the following steps:
+In this assignment, I demonstrated the process of pushing changes to multiple Git repositories with a single command. The task involved the following steps:
 
 1. **Creating three remote repositories** on GitHub.
 2. **Cloning one of the repositories** to my local machine.
