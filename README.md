@@ -72,7 +72,7 @@ origin git@github.com:bakr-mostafa/DEPI-git-a2-repo1.git (push)
 I then made a local change by creating a new file called `multi_push.txt`. This file was used to demonstrate pushing changes to multiple repositories. The content was:
 
 ```bash
-echo "This is a demonstration of pushing to multiple remotes" > multi_push.txt
+echo "This will be pushed to multiple repos" > multi_push.txt
 ```
 
 After creating the file, I staged and committed the changes using the following commands:
